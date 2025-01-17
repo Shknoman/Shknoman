@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning web dev, web cit, web designer 
 - 💞️ I’m looking to collaborate on web networking 
 - 📫 How to reach me follow my account and connect with me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Shknoman/Shknoman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
